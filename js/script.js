@@ -92,7 +92,7 @@ function validate(){
 
               var words = res.split("\n");
 
-              if(words[cnt] === ans){
+              if(words[cnt] === ans.trim().toLowerCase()){
                 cnt++;
                 setServerResponse("")
                 
