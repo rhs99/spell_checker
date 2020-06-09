@@ -1,0 +1,133 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  position: relative;
+}
+
+#heading{
+	width: 100%;
+	height: 50px;
+	background-color: #FFCC00; 
+	color: #660000;
+	text-align: center;
+}
+
+#login{
+	margin: 30px 0 30px 20px;
+}
+
+#user-name{
+	width: 120px;
+	border: 1px solid green;
+}
+
+#login-btn{
+	width: 60px;
+	margin-left: 20px;
+
+}
+
+#login-info{
+	position: absolute;
+	top: 55px;
+	right: 5px;
+	font-size: 25px;
+	color: #CCCCFF;
+}
+
+#analysis{
+	position: absolute;
+	top: 100px;
+	left: 20px;
+}
+
+#pgr-mtr{
+	margin-left: 16px;
+	border: 1px green;	
+}
+
+#acc-mtr{
+	margin-left: 10px;
+}
+
+#scr-lbl{
+	position: absolute;
+	top: 170px;
+	left: 20px;
+}
+
+#score{
+	position: absolute;
+	top: 168px;
+	left: 70px;
+	color: #FFFF99;
+	font-size: 20px;
+}
+
+
+
+#clip-cnt{
+
+	position: absolute;
+	top: 250px;
+	left: 20px;
+}
+
+ 
+#display{
+
+	position: absolute;
+	top: 300px;
+	left: 20px;
+}
+
+
+#user-response{
+	position: absolute;
+	top: 400px;
+	left: 20px;
+}
+
+#response{
+	width: 150px;
+}
+
+#submit{
+	margin-left: 10px;
+	color: green;
+}
+
+#help{
+	margin-left: 10px;
+	color: red;
+}
+
+#server-response{
+	position: absolute;
+	top: 450px;
+	left: 20px;
+	font-size: 20px;
+}
+
+
+
+
+#complete{
+
+	position: relative;
+	font-size: 40px;
+	color: #FFCCCC;
+	top: 200px;
+	left: 20px;
+
+}
+
+ 
+
